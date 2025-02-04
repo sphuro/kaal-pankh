@@ -1,0 +1,25 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "51fc9321-1d68-4eb3-9199-2bb01812d848")
+	(paper "A4")
+	(lib_symbols)
+	(text "Sphuro"
+		(exclude_from_sim no)
+		(at 200.66 175.514 0)
+		(effects
+			(font
+				(face "BigBlueTermPlus Nerd Font")
+				(size 7.62 7.62)
+				(color 22 184 255 1)
+			)
+		)
+		(uuid "5154ab11-6fd6-4a52-a2a5-b364d32e7111")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
